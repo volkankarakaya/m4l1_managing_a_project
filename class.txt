@@ -1,2 +1,13 @@
-Some random text
-and some more
+Crimson
+Orange
+Green
+Cyan
+Yellow
+Ivory
+Khaki
+Coral
+Silver
+Fuchsia
+Gray
+Brown
+Red
